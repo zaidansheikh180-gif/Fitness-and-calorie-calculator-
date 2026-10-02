@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Calorie & Protein Calculator",
+  "description": "A polished web-based calculator for daily recommended calorie and protein intake tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
