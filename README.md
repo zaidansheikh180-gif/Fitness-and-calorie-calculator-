@@ -2,6 +2,8 @@
 
 A simple web-based fitness calculator that helps users compare their daily calorie and protein intake with recommended targets based on body weight.
 
+**Live App:** [Open the live calculator](https://fitness-calorie-protein-calculator.ai.studio)
+
 This project was developed as a college mini-project to demonstrate user input handling, calculations, conditional logic, validation, and a modern responsive web interface.
 
 ## What the Project Does
@@ -149,10 +151,6 @@ Protein = Weight × 1.6
 ```
 
 These are simplified project formulas, not a complete personalized nutrition assessment. The application does not calculate BMR, TDEE, medical nutrition requirements, or individualized dietary plans.
-
-## Live App
-
-[Open the live calculator](https://fitness-calorie-protein-calculator.ai.studio)
 
 ## Future Scope
 
